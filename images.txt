@@ -6,9 +6,9 @@ docker.io/langgenius/dify-sandbox:0.2.12
 docker.io/ubuntu/squid:latest
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 docker.io/semitechnologies/weaviate:1.27.0
-docker.io/langgenius/dify-web:1.13.0
-docker.io/langgenius/dify-api:1.13.0
-docker.io/langgenius/dify-api:1.13.0
+docker.io/langgenius/dify-web:1.13.2
+docker.io/langgenius/dify-api:1.13.2
+docker.io/langgenius/dify-api:1.13.2
 docker.io/corentinth/it-tools:latest
 docker.io/joplin/server:latest
 docker.io/nocodb/nocodb:latest
